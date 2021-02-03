@@ -88,9 +88,11 @@ categorical data, which is easiest depicted on a bar graph.
 
 ## Links to peer review
 
-I reviewed Kennan’s lab report at this URL: \_\_\_
+I reviewed Kennan’s lab report at this URL:
+<https://github.com/BIOL275-MSUM/lab-3-intro-to-ggplot-Keenan-Schissel>
 
-Kennan reviewed my lab report at this URL: \_\_\_
+Kennan reviewed my lab report at this URL:
+<https://github.com/BIOL275-MSUM/lab-3-intro-to-ggplot-Hagen43>
 
 ## Session Info
 
